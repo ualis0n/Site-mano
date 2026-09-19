@@ -1,0 +1,6 @@
+{
+  "name": "Silvio Neto Advogado",
+  "description": "Advocacia boutique em Direito Agrário e do Agronegócio, Empresarial, Tributário, Recuperação Judicial e contencioso cível estratégico em Chapadão do Sul/MS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
